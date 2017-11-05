@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Dima Gilensky](https://up.htmlacademy.ru/htmlcss/19/user/490465).
-* Наставник: `Неизвестно`.
+* Наставник: [Юрий Зайцев] (https://htmlacademy.ru/profile/id89805).
 
 ---
 
